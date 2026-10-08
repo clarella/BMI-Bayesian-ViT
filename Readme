@@ -1,3 +1,10 @@
+Body Mass Index (BMI) estimation from a single frontal face image
+using a Bayesian-ViT architecture
+Carlos Naranjo, Francisca Pérez, Rodrigo Wagner and Claudia Arellano
+School of Business, Universidad Adolfo Ibañez, Santiago, Chile
+Corresponding author: claudia.arellano@uai.cl
+
+
 Body Mass Index (BMI) is an attribute that can be used for a number of applications ranging from
 surveillance, identification, image retrieval systems and healthcare, amongst others. Healthcare applications
 of BMI have gained special importance for detecting people at high risk of suffering malnutrition, obesity,
@@ -8,3 +15,5 @@ methods achieving an overall MAE of 4.434. The Bayesian fashion of the model all
 accounted for. Therefore, results can be selected according to the predicted variance. Using uncertainty,
 the model achieve MAE values between 2.560 and 3.668 when selecting the best 10% and 75% of the data
 respectively.
+
+
