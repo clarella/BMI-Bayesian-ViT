@@ -1,0 +1,10 @@
+Body Mass Index (BMI) is an attribute that can be used for a number of applications ranging from
+surveillance, identification, image retrieval systems and healthcare, amongst others. Healthcare applications
+of BMI have gained special importance for detecting people at high risk of suffering malnutrition, obesity,
+diabetes or cardiovascular problems. This work presents a Bayesian-ViT architecture to estimate BMI from
+a single face image. The model was trained using a benchmark dataset from literature (VisualBMI) and
+compared with state of the art algorithms. Results show that the proposed method is comparable to reported
+methods achieving an overall MAE of 4.434. The Bayesian fashion of the model allows uncertainty to be
+accounted for. Therefore, results can be selected according to the predicted variance. Using uncertainty,
+the model achieve MAE values between 2.560 and 3.668 when selecting the best 10% and 75% of the data
+respectively.
